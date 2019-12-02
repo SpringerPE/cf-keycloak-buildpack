@@ -27,7 +27,7 @@ done
 
 SYS_PROPS+=" $BIND_OPTS"
 
-SYS_PROPS+=" -Djboss.management.http.port=8080 "
+#SYS_PROPS+=" -Djboss.management.http.port=8080 "
 
 ##################################################
 # Copy Keycloak SPI's to JBoss deployment folder #
